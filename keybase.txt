@@ -1,0 +1,60 @@
+cl0udfl4re
+CL0UDFL4RE
+As know as mo**, md**.
+Jakarta. 10110
+==================================================================
+https://keybase.io/cl0udfl4re
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://moonx2209.github.io
+  * I am cl0udfl4re (https://keybase.io/cl0udfl4re) on keybase.
+  * I have a public key ASC2vnoc0yamOIWoGeL-AG-muqryXIGemBREPeIM_9FjIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b6be7a1cd326a63885a819e2fe006fa6baaaf25c819e9814443de20cffd163220a",
+      "host": "keybase.io",
+      "kid": "0120b6be7a1cd326a63885a819e2fe006fa6baaaf25c819e9814443de20cffd163220a",
+      "uid": "bd6ed27580beb9175f7ddefbd178f819",
+      "username": "cl0udfl4re"
+    },
+    "merkle_root": {
+      "ctime": 1690087189,
+      "hash": "6835a12ce995d4f1e3f7e7edbe7a89adff9728d3d66929f4e741ffecfd95c521833d01be5b6057a8268e3997c1fba90b9c9f242460476c2095b02f64e06da39a",
+      "hash_meta": "c5e58dc8c530bb4591951db93002b3a6e6c9ce690c259c06043d4e49632d605c",
+      "seqno": 24718435
+    },
+    "service": {
+      "entropy": "t88ZU8EqWDk1WYezU1KD5sDx",
+      "hostname": "moonx2209.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1690087249,
+  "expire_in": 504576000,
+  "prev": "f71cb6d7714e2709345cf05ea97bbe87c6626e9d29c2d0dd50f5f26146d6527f",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtr56HNMmpjiFqBni/gBvprqq8lyBnpgURD3iDP/RYyIKp3BheWxvYWTESpcCDsQg9xy213FOJwk0XPBeqXu+h8Zibp0pwtDdUPXyYUbWUn/EIGSd4j0+kqKqC6oB13oyZ3/F/8BxhSmYY97pRhUDm5Y9AgHCo3NpZ8RAuexbEhuNmBo4Lm89EgX56uOUfTvyhZZ0V8U3o/3yvdG89VhHQwc8i5Ra59W6tn5dRsSo2x2laE2a1y7wpkLeC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA6zLyq1qYUQf6V9oTn6rtEkgubEfnazT6LvxaGSNamlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cl0udfl4re
+
+==================================================================
